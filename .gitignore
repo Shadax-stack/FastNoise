@@ -7,3 +7,4 @@
 !build_library.bash
 !Makefile
 !.gitignore
+!CMakeLists.txt
